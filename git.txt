@@ -1,0 +1,21 @@
+git ==> version control ==> local repo
+github ==> remote repo
+
+touch gitFirst.txt
+git comands
+git --version
+git log
+git ls
+git branch -m master main
+git init
+git push -u origin main --force
+git pull origin main --rebase
+git push -u origin main
+
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --list                              
+
+git push -u origin main
+
+git branch
