@@ -1,0 +1,37 @@
+
+Linux command (for git)
+-----------------------------------------
+Pwd ==> present working directory
+clear ==> to clear the screen
+ls --> list of file
+whoami
+touch filename
+nano filename.txt  (ctrl + x + y)
+cat filename.txt
+sort filename.txt
+mkdir file name
+cd = common directory
+cp git.txt text.txt
+
+To delete the file
+
+git rm filename.txt
+
+mv file name
+
+#To delete folder 
+
+rm  -r folder name  
+
+to comeback previse directory 
+cd  ..
+
+chmod 700 git.txt
+
+0 == >no permission
+1 ==> exucute only
+2 ==> write only
+4==> read only
+
+7 => 1+2+4(all permision)
+-------------------------------------
