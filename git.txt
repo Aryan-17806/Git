@@ -17,5 +17,11 @@ git config --global user.email "you@example.com"
 git config --list                              
 
 git push -u origin main
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main
 
 git branch
+
+
+git branch -m master main
+git push -u origin main
