@@ -1,3 +1,0 @@
-class hello_2{
-    psvm
-}

@@ -1,3 +1,42 @@
+Linux command (for git)
+pwd ⇒ present working directory
+clear ⇒ clear the screen
+ls ⇒ list files
+whoami ⇒ show current user
+touch filename ⇒ create empty file
+nano filename.txt ⇒ open in nano editor (Ctrl + X, then Y to save)
+cat filename.txt ⇒ show file content
+sort filename.txt ⇒ sort file content
+mkdir foldername ⇒ make new folder
+cd foldername ⇒ change directory
+cp file1.txt file2.txt ⇒ copy file
+
+Delete file
+git rm filename.txt ⇒ remove file from Git + working dir
+
+mv oldname.txt newname.txt ⇒ move/rename file
+
+Delete folder
+rm -r foldername ⇒ remove folder
+
+Go to previous directory
+cd ..
+
+Change permission
+chmod 700 git.txt
+
+0 ⇒ no permission
+1 ⇒ execute only
+2 ⇒ write only
+4 ⇒ read only
+7 ⇒ read + write + execute (1+2+4)
+
+
+
+
+
+
+
 
 Linux command (for git)
 -----------------------------------------
